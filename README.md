@@ -5,6 +5,8 @@ youtube, google, facebook, twitter 秒开。
 
 免费翻墙软件，稳定更新，速度快，有安卓版和PC版。
 
+跨平台。有windows版，android版和linux版。
+
 这免费的翻墙比一般的收费的还稳定。速度还快。不限流量，安全性好。
 
 官方网址：
