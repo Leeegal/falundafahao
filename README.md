@@ -7,6 +7,14 @@ youtube, google, facebook, twitter 秒开。
 
 跨平台。有windows版，android版和linux版。
 
+
+无界浏览PC版： u.exe
+无界浏览linux版: ul
+无界浏览andriod: um.apk
+自由门pc版: fg764.zip
+自由门android版: fgma32.apk
+
+
 这免费的翻墙比一般的收费的还稳定。速度还快。不限流量，安全性好。
 
 官方网址：
